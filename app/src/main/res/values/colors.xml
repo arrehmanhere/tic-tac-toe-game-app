@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="my_color">#fffaff</color>
+    <color name="my_color_btn">#0d0c1d</color>
+    <color name="myColor">#161b33</color>
+    <color name="purple">#6648c3</color>
+    <color name="gridColor">#f2eddc</color>
+</resources>
